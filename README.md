@@ -23,7 +23,11 @@ This project applies advanced graph algorithms to model and optimize a transport
    ```
 
 2. Compile the C++ source code using any standard compiler (e.g., g++):
+   ```bash
    g++ Source-Code.cpp -o NetworkOptimizer
-
+   ```
+   
 3. Run the executable:
-   ./NetworkOptimizer  
+   ```bash
+   ./NetworkOptimizer
+   ```  
